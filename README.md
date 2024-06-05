@@ -12,11 +12,11 @@ _Disclaimer: All datasets was exported from  (https://nigerianstat.gov.ng/downlo
 - Active subscribers revenue genereated Comparison amidst individual telecoms for year 2021
 
 ## Skills & Concepts Showcased
-Data Cleaning and Transformation, Using power query and Data analysis expression (Dax) was used for data transformation, measure, aggregation and manipulation on dataset.
-Exploratory Data Analysis
-Data Visualization (application of different chart like stacked column chart, funnel, silcer and cards).
-Identification of patterns and trends to get actionable insights for stakeholders.
-Dashboard Development
+- Data Cleaning and Transformation, Using power query and Data analysis expression (Dax) was used for data transformation, measure, aggregation and manipulation on dataset.
+- Exploratory Data Analysis
+- Data Visualization (application of different chart like stacked column chart, funnel, silcer and cards).
+- Identification of patterns and trends to get actionable insights for stakeholders.
+- Dashboard Development
 
 ## Modelling
 Automatically derived relationships are adjusted to remove and replace them with the necessary information, below is the dataset model.
