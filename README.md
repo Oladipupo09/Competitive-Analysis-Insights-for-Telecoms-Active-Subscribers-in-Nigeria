@@ -51,8 +51,10 @@ In 2021, Globacom received 70% of active subscribers for telephony services, whi
 _I would love to delve deeper into the competitive report analysis, especially if the dataset included subscriber demographics and preferred services such as data service, voice service, SMS service, and roaming service. However, the provided dataset only contains information on active subscribers and revenue for voice services._
 
 ## Dashboard Overview
+This dashboard is interactive, filter can be applied on calendar month and drill down/up on 2021 Quarterly/MOM Active Subscribers for Telephony Services by Operators Chart to achieve strictly quarterly information and overall info.
 
-<img width="713" alt="image" src="https://github.com/Oladipupo09/Competitive-Insights-for-Telecoms-in-Nigeria/assets/133363227/dc412873-5546-4060-b934-58610e5249ee">
+<img width="718" alt="image" src="https://github.com/Oladipupo09/Competitive-Insights-for-Telecoms-in-Nigeria/assets/133363227/15a5c045-88cf-4192-b5af-d5ba5f47ad73">
+
 
 
 
